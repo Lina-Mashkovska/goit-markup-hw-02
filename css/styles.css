@@ -67,7 +67,7 @@ a {
     font-weight: 700;
     font-size: 56px;
     line-height: 1.07;
-    letter-spacing: -0.02em;
+    letter-spacing: 0.02em;
     text-align: center;
   
 }
@@ -77,7 +77,7 @@ a {
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
-    letter-spacing: -0.04em;
+    letter-spacing: 0.04em;
     cursor: pointer;
   }
   
@@ -105,14 +105,14 @@ a {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
-    letter-spacing: -0.02em;
+    letter-spacing: 0.02em;
   }
   
   .section-one-text {
     color: #434455;
     font-size: 16px;
     line-height: 1.5;
-    letter-spacing: -0.02em;
+    letter-spacing: 0.02em;
   }
 
   .ourteam {
@@ -151,7 +151,7 @@ a {
     color: #2e2f42;
     font-weight: 700;
     font-size: 36px;
-    letter-spacing: -0.02em;
+    letter-spacing: 0.02em;
     text-align: center;
     line-height: 1.11;
     text-transform: capitalize;
@@ -162,7 +162,7 @@ a {
     color: #2e2f42;
     font-weight: 500;
     font-size: 20px;
-    letter-spacing: -0.02em;
+    letter-spacing: 0.02em;
     line-height: 1.2;
       
   }
@@ -171,7 +171,7 @@ a {
     color: #434455;
     font-size: 16px;
     line-height: 1.5;
-    letter-spacing: -0.02em;
+    letter-spacing: 0.02em;
             
   }
 
@@ -185,7 +185,7 @@ a {
     font-weight: 700;
     font-size: 18px;
     line-height: 1.17;
-    letter-spacing: -0.03em;
+    letter-spacing: 0.03em;
     text-transform: uppercase;
 }
 
@@ -195,12 +195,12 @@ a {
     font-weight: 700;
     font-size: 18px;
     line-height: 1.17;
-    letter-spacing: -0.03em;
+    letter-spacing: 0.03em;
     text-transform: uppercase; 
 }
 .text-footer {
     color: #f4f4fd;
     font-size: 16px;
     line-height: 1.5;
-    letter-spacing: -0.02em;
+    letter-spacing: 0.02em;
 }
