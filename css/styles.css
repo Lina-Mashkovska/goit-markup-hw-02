@@ -100,7 +100,7 @@ a {
     color: #2e2f42;
   }
   
-  .section-one-text {
+  .section-one-text .ot info {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
